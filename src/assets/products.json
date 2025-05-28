@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "HP Pavilion x360",
+    "category": "laptop",
+    "status": "Available",
+    "price": 59999
+  },
+  {
+    "id": 2,
+    "name": "Dell Inspiron 15",
+    "category": "laptop",
+    "status": "Out of Stock",
+    "price": 49999
+  },
+  {
+    "id": 3,
+    "name": "Lenovo Legion 5",
+    "category": "gaming-setup",
+    "status": "Available",
+    "price": 85999
+  }
+]
